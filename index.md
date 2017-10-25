@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Autonetkit experience
 
-You can use the [editor on GitHub](https://github.com/distortenterprises/autonetkit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Autonetkit is a configuration engine to quickly and easily build large-scale network configurations. I will test and document my success on this page.           
 
 ### Markdown
 
